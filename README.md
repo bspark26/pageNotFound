@@ -1,2 +1,2 @@
 # pageNotFound
-Page not found project (devchallenges.io)
+Page not found project
